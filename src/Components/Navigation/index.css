@@ -1,0 +1,17 @@
+.nav-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.nav-container {
+  background: orangered;
+  width: 100%;
+  padding: 15px;
+}
+
+.nav-list a {
+  text-decoration: orangered;
+  color: black;
+}
